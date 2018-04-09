@@ -9,7 +9,7 @@
 
 
 #### 演示结果如下
-![]()
+![](https://github.com/sumerzhang/Qunar_Selenium/blob/master/qunar_selenium.gif)
 
 ### 首先找到搜索界面，用Chrome审查元素读取元素的位置，通过Selenium自动填充数据和点击搜索按钮。
 ```python
